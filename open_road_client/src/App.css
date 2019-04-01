@@ -1,0 +1,7 @@
+.myReadingList {
+	left: 50%;
+	margin: 10px 0 0 -50px;
+	position: absolute;
+	color: rgb(26, 26, 80);
+	font-family: 'Denk One';
+}
